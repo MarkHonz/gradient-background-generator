@@ -1,0 +1,19 @@
+{
+	"name": "gradient-background-generator",
+	"version": "1.0.0",
+	"description": "Awesome way to create a gradient background.",
+	"main": "script.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MarkHonz/gradient-background-generator.git"
+	},
+	"author": "markHonz",
+	"license": "GNU GENERAL PUBLIC LICENSE Version 3",
+	"bugs": {
+		"url": "https://github.com/MarkHonz/gradient-background-generator/issues"
+	},
+	"homepage": "https://github.com/MarkHonz/gradient-background-generator#readme"
+}
